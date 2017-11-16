@@ -4,4 +4,4 @@ Starting as a simple implementation of the arcade game Pacman, this repo will de
 
 ## Status
 
-Development will begin in October
+Development will begin in February 2018 when I begin studying machine learning
